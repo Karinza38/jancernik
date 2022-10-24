@@ -33,7 +33,7 @@
   </tr>
   <tr>  
     <td><b>Main DE<b/></td>
-    <td><img src="https://img.shields.io/badge/KDE%20Plasma-000.svg?style=for-the-badge&logo=KDE&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Gnome%2042-000.svg?style=for-the-badge&logo=gnome&logoColor=white"/></td>
   </tr>
   <tr>
     <td><b>Main Browser<b/></td>
@@ -48,14 +48,14 @@
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?    username=cernikkk&layout=compact&bg_color=fff&&title_color=000&text_color=000&hide_border=0&langs_count=6#gh-light-mode-only" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?    username=jancernik&layout=compact&bg_color=fff&&title_color=000&text_color=000&hide_border=0&langs_count=6#gh-light-mode-only" alt="Top Languages" />
   </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cernikkk&layout=compact&bg_color=000&&title_color=fff&text_color=fff&hide_border=1&langs_count=6#gh-dark-mode-only" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jancernik&layout=compact&bg_color=000&&title_color=fff&text_color=fff&hide_border=1&langs_count=6#gh-dark-mode-only" alt="Top Languages" />
   </a>
 </div>
 
