@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td><b>Main Browser<b/></td>
-    <td><img src="https://img.shields.io/badge/Vivaldi-E83737?style=for-the-badge&logo=Vivaldi&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Chrome-1b73e8?style=for-the-badge&logo=Google-chrome&logoColor=white"/></td>
   </tr>
     <tr>
     <td><b>Code Editor<b/></td>
